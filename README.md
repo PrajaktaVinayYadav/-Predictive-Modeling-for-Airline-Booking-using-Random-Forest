@@ -1,4 +1,4 @@
-# -Predictive-Modeling-for-Airline-Booking-using-Random-Forest
+# Predictive Modeling for Airline Booking using Random Forest
 
 This Jupyter Notebook demonstrates a machine learning workflow to predict customer booking completion using a Random Forest Classifier. The analysis includes the following key steps:
 
